@@ -23,6 +23,20 @@ Når du arbeider med oppgavene, er det viktig å dokumentere koden din godt. Her
 - Bruk beskrivende variabel- og funksjonsnavn som gjør koden enklere å forstå.
 - Hvis du bruker eksterne ressurser eller inspirasjon fra andre kilder, oppgi dem som kommentarer i koden.
 
+## File Name Format
+
+{navn}Solve{deloppgave}.py
+
+### Eksempler
+- rohaanSolve
+- rohaanSolveA
+- rohaanSolveB
+- danielSolve
+- danielSolveA
+- danielSolveB
+
+File navn bruker camelCase. Det vil si at alle ord bortsett fra første har stor bokstav, eks. "fileNameFormat"
+
 ## Code Maintainers
 
 For å sikre god kodekvalitet og vedlikehold av repositoriet, har vi utpekt følgende "Code Maintainers":
