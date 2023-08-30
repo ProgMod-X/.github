@@ -50,4 +50,4 @@ Hvis du har spørsmål om oppgaver, teori eller kode, er du velkommen til å kon
 
 Vi oppfordrer også studenter til å bidra ved å lage forslag til forbedringer, rapportere feil eller til og med sende inn egne oppgaver og løsninger gjennom pull requests.
 
-Nå la oss få karakter 6 i faget!
+Nå, la oss få karakter 6 i faget!
